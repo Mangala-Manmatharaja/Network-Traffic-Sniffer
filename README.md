@@ -4,7 +4,7 @@ A lightweight, Windows-compatible network traffic sniffer built with Python. Thi
 
 ---
 
-## 🔧 Feature
+## 🔧 Featur
 
 - ✅ No Npcap / WinPcap needed
 - ✅ Works on Windows (Python 3.7+)
