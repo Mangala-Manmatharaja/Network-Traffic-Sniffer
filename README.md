@@ -1,4 +1,4 @@
-# 🛰️ Windows Network Traffic Monitor (Python)
+# 🛰️ Windows Network Traffic Monitor (Python
 
 A lightweight, Windows-compatible network traffic sniffer built with Python. This tool shows real-time active TCP/UDP connections along with their IP addresses, ports, process names, and PIDs — all **without requiring WinPcap/Npcap or admin rights**.
 
